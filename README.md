@@ -16,4 +16,4 @@ The functionality to add the initial Sudoku state is also given. Any CSV file ca
   1. All filled positions must be given an input between 1-9 
   2. All empty spaces must be filled as 0. 
   
-The sudoku matrix can also be cleared using the clear button, providing a fresh new table to begin the computation with. */
+The sudoku matrix can also be cleared using the clear button, providing a fresh new table to begin the computation with.
